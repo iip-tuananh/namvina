@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
 :root {
-    --body-font: "Roboto Mono", monospace;
-    --heading-font: "Roboto Mono", monospace;
+    --body-font: "Montserrat", sans-serif;
+    --heading-font: "Montserrat", sans-serif;
     --theme-color: #0097b2;
     --theme-color2: #FFAE00;
     --theme-bg-light: #F6F6F6;
