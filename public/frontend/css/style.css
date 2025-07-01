@@ -5430,6 +5430,7 @@ tr {
 }
 
 .flexsearchui .searchmobileui {
+    display: none !important;
     width: 100%;
     justify-content: center;
     align-items: center;
