@@ -22,7 +22,11 @@
                         <div class="container">
                             <div class="row align-items-center">
                                 <div class="col-md-12 col-lg-6">
-
+                                    <div class="hero-content">
+                                        <h2 style="color: #fff; font-size: 36px; font-weight: 700;">{{ $item->title }}</h2>
+                                        <p>{{ $item->description }}</p>
+                                        <a href="{{ $item->link }}" class="btn btn-primary">Learn More</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
